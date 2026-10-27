@@ -2,26 +2,27 @@
 **Moses Lambani | Alexandra, South Africa**
 > ALX Data Analytics Graduate | CS & Intro to Cybersecurity Student | Harvard CS50x 2026
 
-Building security tools in C - from password strength to intrusion detection.
+### Projects - Data to Security Journey
 
-### Projects
+#### 1. IT Support Tracker - Excel
+Project 1 - Helpdesk management
+- Tech: Excel, Conditional Formatting, PivotTables, Filters
+- File: `/it_support_tracker/IT_Support_Tracker.xlsx`
 
-#### 1. Password Checker V2
-Checks password strength, entropy & common passwords.
-- **Tech:** C, string.h, entropy calculation
-- **Security:** Dictionary attack prevention
-- **Folder:** `/password_checker`
+#### 2. Password Checker V2 - C
+Checks strength, entropy & common passwords
+- Tech: C, string.h, entropy calc
+- Security: Dictionary attack prevention
+- Folder: `/password_checker`
 
-#### 2.Intrusion Detector - Log Analyzer
-Real SOC Analyst tool that detects brute-force attacks.
-- **Tech:** C, File I/O, log parsing
-- **Security:** Brute-force detection, IP flagging
-- **Folder:** `/intrusion_detector`
-- **Run:** `gcc log_analyzer.c -o detector && ./detector`
+#### 3. Intrusion Detector - Log Analyzer
+SOC Analyst tool - detects brute-force attacks
+- Tech: C, File I/O, log parsing
+- Security: Brute-force detection
+- Folder: `/intrusion_detector`
 
 ### Skills
-`C` `Cybersecurity` `Data Analytics` `Log Analysis` `Linux` `Git`
-
+Excel | C | Cybersecurity | Log Analysis | Git | Data Analytics
 
 ---
-Connect: github.com/lambanimoses759-ctrl
+connect: github.com/lambanimoses759-ctrl
