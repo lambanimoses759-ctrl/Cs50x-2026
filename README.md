@@ -20,6 +20,13 @@ SOC Analyst tool - detects brute-force attacks
 - Tech: C, File I/O, log parsing
 - Security: Brute-force detection
 - Folder: `/intrusion_detector`
+- 
+### 4. ZAR Change Calculator - C
+POS / Cashier tool - calculates minimum coins for South African Rand change
+- Tech: C, Greedy Algorithm, Math rounding
+- Security: Input validation, float error prevention
+- Folder: /zar_change_calculator
+- File: /zar_change_calculator/calculator.c
 
 ### Skills
 Excel | C | Cybersecurity | Log Analysis | Git | Data Analytics
